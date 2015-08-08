@@ -1,0 +1,62 @@
+body {
+
+  background-image: url("../img/jordan.jpg");
+  background-repeat: repeat-x;
+  background-size: cover;
+
+
+}
+
+html {
+
+  color: white;
+
+}
+
+h1 {
+
+  color: white;
+
+}
+
+li {
+
+  list-style-type: none;
+
+}
+
+
+
+.container {
+
+  float: right;
+
+}
+
+.scoreboard {
+
+  text-align: center;
+
+}
+
+.correct {
+
+  width: 50%;
+  float: left;
+
+
+}
+
+.wrong {
+
+  width: 50%;
+  float: right;
+
+}
+
+.nxtQuestionBtn {
+
+  margin-top: 8%;
+  width: 100%;
+
+}
