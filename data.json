@@ -1,0 +1,22 @@
+{
+
+	"questions" : ["Where did Michael get the inspiration for sticking out his tongue?", 
+				   "What number did Jordan have to wear when his jersey was stolen in Orlando?",
+				   "What other NBA Team retired Jordan's number 23 out of respect?",
+				   "What other shoe company was Jordan considering besides Nike?",
+				   "What draft pick was Michael Jordan?"],
+
+	"answers" : ["His Dad", 
+				 "12",
+				 "Miami Heat",
+				 "Addidas",
+				 "3rd"]
+}
+
+
+//
+//if (question[0] == answers[0]) {
+//	"console.log('You got the right answer')"
+//} else {
+//	"console.log('Wrong answer!')"
+//}
